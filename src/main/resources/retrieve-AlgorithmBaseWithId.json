@@ -1,0 +1,9 @@
+{
+  "customerInsightAlgorithmType" : "genetic",
+  "customerInsightAlgorithmUsage" : {},
+  "customerInsightAlgorithmReference" : "ALG92308",
+  "customerInsightAlgorithmImpact" : {},
+  "customerInsightAlgorithmFeedbackRecord" : {},
+  "customerInsightAlgorithmUsageGuidelines" : "example guideline",
+  "customerInsightAlgorithmSpecification" : {}
+}
